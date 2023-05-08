@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pt">
+<html lang="pt"> 
 <head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" contet="ie=edge">
@@ -9,4 +9,19 @@
 </head>
 <body>
 <header class="cabecalho">
-<img class="cabecalho-logo"src="ceev
+<img class="cabeçalho-logo"src="ceev logo.png"alt="logo do colégio">
+<ul class="cabeçalho lista">
+<li class="cabeçalho-itens">Aluno5</li>
+<li class="cabeçalho-itens">professores</li>
+</ul>
+
+</header>
+<section class="escola">
+<h1 class="escola-titulo">COLÉGIO ESTADUAL ÉRICO VERÍSSIMO-FAXINAL-PR</H1>
+
+<p class="escola-paragrafo">ESCOLA INTEGRAL</p>
+
+
+
+
+<div class="galeria -todos"
